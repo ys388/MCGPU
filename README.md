@@ -1,6 +1,6 @@
 MC-GPU
 ==
-MC-GPU is an open-source software to calculate X-ray scattering signals. We here provide a detailed documentation and codes converting the measured signals to projections and CT images reconstruction. 
+MC-GPU is an open-source software to calculate X-ray scattering signals. We here provide a detailed documentation and codes converting the measured signals to projections and CT images reconstruction. https://code.google.com/archive/p/mcgpu/downloads
 
 Phantom
 ==
